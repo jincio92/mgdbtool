@@ -35,7 +35,7 @@ A simple GUI form importing data from one DB to another. For now only Postgres i
 
 ### Built With
 
-* [![Go][Go.com]][Go-url]
+* [![Go][Go]][Go-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
